@@ -10,3 +10,10 @@ Code base:
 
 ![Screenshot from 2023-07-28 00-19-05](https://github.com/TranBinh2311/Ticketing-microservice/assets/59139208/e51ec250-1e7c-4b15-a391-8196d216ef71)
 
+Work flow:
+
+![Screenshot from 2023-07-28 00-24-58](https://github.com/TranBinh2311/Ticketing-microservice/assets/59139208/254d911e-66fc-422e-8d04-045ba1bf1704)
+
+Deploy flow:
+
+![Screenshot from 2023-07-28 00-26-04](https://github.com/TranBinh2311/Ticketing-microservice/assets/59139208/658e311e-2c36-4e86-85ed-cbd26c84293b)
