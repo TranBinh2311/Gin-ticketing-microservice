@@ -17,3 +17,10 @@ Work flow:
 Deploy flow:
 
 ![Screenshot from 2023-07-28 00-26-04](https://github.com/TranBinh2311/Ticketing-microservice/assets/59139208/658e311e-2c36-4e86-85ed-cbd26c84293b)
+
+Architecture Overview:
+
+![Screenshot from 2023-07-28 00-37-03](https://github.com/TranBinh2311/Ticketing-microservice/assets/59139208/dc9dcfb2-182a-4ccf-b6b2-9359b7a88252)
+
+![Screenshot from 2023-07-28 00-37-03](https://github.com/TranBinh2311/Ticketing-microservice/assets/59139208/e7616c02-141c-488d-a2fd-c1a185dc224a)
+
